@@ -9,7 +9,7 @@ I'm a beginning software developer from Belarus and I'm passionate about Python,
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdzehil&layout=compact"/></a>
 </p>
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/alexdzehil">
+   <a href="https://github.com/alexdzehil/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=alexdzehil&color=DE002D">
    </a>
 </div>
